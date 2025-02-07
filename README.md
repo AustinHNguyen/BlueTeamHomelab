@@ -14,13 +14,35 @@ pfSense: pfSense acts as our firewall and DHCP server. It allows us to control a
 The image above shows the ip ranges of the different VLANs
 
 pfSense configurations:
-Interface Assignments: ![image](https://github.com/user-attachments/assets/c1a4d38e-e26a-416b-8b6a-ede2671c06ca)
+Interface Assignments: 
+
+![image](https://github.com/user-attachments/assets/c1a4d38e-e26a-416b-8b6a-ede2671c06ca)
 
 LAN Rules: 
+
 ![image](https://github.com/user-attachments/assets/af2dcaa7-4cd5-4151-aa0b-50c64c6cb1b3)
 
-DHCP Server enabled:
-![image](https://github.com/user-attachments/assets/979f8f6b-51b9-46f3-8d34-10324e94c6b5)
+DHCP Server enabled: 
 
-VXLAN zone and VXNet created:
-![image](https://github.com/user-attachments/assets/646beee3-7d82-4ee2-867b-370c120515ef)
+VXLAN zone and VXNet created: 
+
+![image](https://github.com/user-attachments/assets/99626f0d-dbcd-4b38-9e8a-4d8810c7b90b)
+![image](https://github.com/user-attachments/assets/e34ccacf-be7a-4a71-8523-eeb16e97ffd8)
+
+All Virtual Machines added and configured (Right side shows Windows 10 hardware configurations):
+
+![image](https://github.com/user-attachments/assets/6e3fed58-b8e9-4dad-80b0-6b94a6daf4ae)
+Note: Wazuh Agent was installed on the Windows 10 machine
+
+Windows Server hardware configurations:
+
+![image](https://github.com/user-attachments/assets/fe8cd100-f3f0-4ac0-aac1-37d240f49ba4)
+
+
+Kali machine hardware configurations: 
+
+![image](https://github.com/user-attachments/assets/30298857-487f-4334-a2d6-b924159fd7ce)
+
+Docker and Portainer installed for vulnerable webapp testing:
+![image](https://github.com/user-attachments/assets/817651c5-adc1-449f-beff-9172e000e025)
+![image](https://github.com/user-attachments/assets/47d62d4d-4c51-4863-9f82-b481534f797f)
