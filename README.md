@@ -46,3 +46,5 @@ Kali machine hardware configurations:
 Docker and Portainer installed for vulnerable webapp testing:
 ![image](https://github.com/user-attachments/assets/817651c5-adc1-449f-beff-9172e000e025)
 ![image](https://github.com/user-attachments/assets/47d62d4d-4c51-4863-9f82-b481534f797f)
+
+That is all for now for our homelab. We will be using this homelab in several future projects to further our knowledge and practice real-world skills. This will be expanded in the future as well to fit our educational needs.
