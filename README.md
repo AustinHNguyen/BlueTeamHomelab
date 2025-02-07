@@ -21,3 +21,6 @@ LAN Rules:
 
 DHCP Server enabled:
 ![image](https://github.com/user-attachments/assets/979f8f6b-51b9-46f3-8d34-10324e94c6b5)
+
+VXLAN zone and VXNet created:
+![image](https://github.com/user-attachments/assets/646beee3-7d82-4ee2-867b-370c120515ef)
