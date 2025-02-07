@@ -11,3 +11,13 @@ Setup: The very first thing we did was install the Proxmox OS on our two compute
 
 pfSense: pfSense acts as our firewall and DHCP server. It allows us to control and configure firewall settings for more security.
 ![image](https://github.com/user-attachments/assets/9ce531e8-b1c1-4a7d-b491-9a46d85ab625)
+The image above shows the ip ranges of the different VLANs
+
+pfSense configurations:
+Interface Assignments: ![image](https://github.com/user-attachments/assets/c1a4d38e-e26a-416b-8b6a-ede2671c06ca)
+
+LAN Rules: 
+![image](https://github.com/user-attachments/assets/af2dcaa7-4cd5-4151-aa0b-50c64c6cb1b3)
+
+DHCP Server enabled:
+![image](https://github.com/user-attachments/assets/979f8f6b-51b9-46f3-8d34-10324e94c6b5)
